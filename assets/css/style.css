@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*only need the class */
 .seo {
     color: #d9dcd6;
 }
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*condensed everything to allow for easier to read code */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*condensed this as well, too much repeated code*/
 .section-content {
     margin-bottom: 20px;
     padding: 50px;
